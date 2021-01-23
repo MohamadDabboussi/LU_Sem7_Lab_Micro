@@ -1,0 +1,16 @@
+ ORG $1000
+DRAWPAD EQU $E020
+X_C EQU 0
+Y_C EQU 2
+COM EQU 4
+ LEA DRAWPAD,A1
+ MOVE.W #30,X_C(A1)
+ MOVE.W #30,Y_C(A1)
+ MOVE.W #$0008,COM(A1) ; Cursor Move to (30,30)
+ MOVE.W #40,X_C(A1)
+ MOVE.W #70,Y_C(A1)
+ MOVE.W #$0044,COM(A1) ; Line to (40,70) Color Red Width 4
+ MOVE.W #100,X_C(A1)
+ MOVE.W #150,Y_C(A1)
+ MOVE.W #$2022,COM(A1) ; Rectangle to (100,150) Color Red Width 2
+ END $1000

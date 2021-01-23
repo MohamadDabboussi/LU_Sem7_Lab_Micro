@@ -1,0 +1,12 @@
+ ORG $1000
+ LEA STR,A0
+ TRAP #15
+ DC.W 7  ;PRTSTR
+ MOVE.B #'A',D0
+ TRAP #15
+ DC.W 1 ;PUTCH
+ TRAP #15
+ DC.W 0  ;Exit
+ ORG $2000
+STR DC.B 'You Write ',0
+ END $1000
