@@ -1,0 +1,11 @@
+Warning[205] D:\SEM_7\MICRO_PROCESSEUR_I\TP\MP\MP3\TP3EX1.X\TP3EX1.ASM 1 : Found directive in column 1. (LIST)
+Warning[205] D:\SEM_7\MICRO_PROCESSEUR_I\TP\MP\MP3\TP3EX1.X\TP3EX1.ASM 3 : Found directive in column 1. (__CONFIG)
+Warning[205] D:\SEM_7\MICRO_PROCESSEUR_I\TP\MP\MP3\TP3EX1.X\TP3EX1.ASM 4 : Found directive in column 1. (ORG)
+Warning[203] D:\SEM_7\MICRO_PROCESSEUR_I\TP\MP\MP3\TP3EX1.X\TP3EX1.ASM 5 : Found opcode in column 1. (GOTO)
+Warning[205] D:\SEM_7\MICRO_PROCESSEUR_I\TP\MP\MP3\TP3EX1.X\TP3EX1.ASM 6 : Found directive in column 1. (ORG)
+Message[302] D:\SEM_7\MICRO_PROCESSEUR_I\TP\MP\MP3\TP3EX1.X\TP3EX1.ASM 10 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\SEM_7\MICRO_PROCESSEUR_I\TP\MP\MP3\TP3EX1.X\TP3EX1.ASM 11 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\SEM_7\MICRO_PROCESSEUR_I\TP\MP\MP3\TP3EX1.X\TP3EX1.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\SEM_7\MICRO_PROCESSEUR_I\TP\MP\MP3\TP3EX1.X\TP3EX1.ASM 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\SEM_7\MICRO_PROCESSEUR_I\TP\MP\MP3\TP3EX1.X\TP3EX1.ASM 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] D:\SEM_7\MICRO_PROCESSEUR_I\TP\MP\MP3\TP3EX1.X\TP3EX1.ASM 28 : Found directive in column 1. (END)
